@@ -20,7 +20,7 @@
 
 #### Example
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-shortest-path-problem/blob/main/SPP example.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-shortest-path-problem/blob/main/SPP_example.png)
 
 ```python
 if __name__ == '__main__':
