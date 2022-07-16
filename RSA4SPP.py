@@ -123,7 +123,6 @@ def main(network, source, destination):
         # Step 3.6. Active -> inactive
         remove_ripple = []
         for ripple in active_set:
-            radius = radius_set[ripple]
             epicenter = epicenter_set[ripple]
             flag_inactive = True
             for node in neighbor[epicenter]:
