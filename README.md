@@ -1,4 +1,4 @@
-### The Ripple-Spreading Algorithm for the Shortest Path problem
+### The Ripple-Spreading Algorithm for the Shortest Path Problem
 
 ##### Reference: Hu X B, Wang M, Leeson M S, et al. Deterministic agent-based path optimization by mimicking the spreading of ripples[J]. Evolutionary Computation, 2016, 24(2): 319-346.
 
