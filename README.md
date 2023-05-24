@@ -18,7 +18,7 @@
 | active_set    | List, active_set contains all active ripples                 |
 | Omega         | Dictionary, Omega[n] = i denotes that ripple i is generated at node n |
 
-#### Example
+#### Example (RSA4SPP.py)
 
 ![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-shortest-path-problem/blob/main/SPP_example.png)
 
@@ -37,3 +37,5 @@ if __name__ == '__main__':
 ```
 
 ##### Output: [0, 2, 4]
+
+#### The RSA.py was written in class.
